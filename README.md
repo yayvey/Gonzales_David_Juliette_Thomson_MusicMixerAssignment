@@ -3,7 +3,8 @@ Made by David Gonzales and Juliette Thomson<br><br>
 
 This is a soundscape dedicated to the legendary West 4th St. basketball courts - called, 'The Cage'. <br>
 This is a spot where David visits everytime he goes to New York, and wanted to capture this experience in the assignment.<br>
-It is based on a moment David has resting in his memory, reimagining the sounds that fully immersed him in the concrete jungles of New York City.<br><br>
+It is based on a moment David has resting in his memory, reimagining the sounds that fully immersed him in the concrete jungles of New York City.<br>
+(Validated by w3c.validator)<br><br>
 
 ## TABLE OF CONTENTS <br>
 
