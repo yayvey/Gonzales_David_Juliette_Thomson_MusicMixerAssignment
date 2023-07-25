@@ -1,6 +1,12 @@
 # Music Mixer Assignment
 Made by David Gonzales and Juliette Thomson<br><br>
 
+## KNOWN BUG:
+'Error 0x80010135 Path too long' while extracting. 
+IT IS SAFE TO SKIP. 
+Most likely caused by folders in assets. 
+Tested. Does not effect any files needed for grading.
+
 This is a soundscape dedicated to the legendary West 4th St. basketball courts - called, 'The Cage'. <br>
 This is a spot where David visits everytime he goes to New York, and wanted to capture this experience in the assignment.<br>
 It is based on a moment David has resting in his memory, reimagining the sounds that fully immersed him in the concrete jungles of New York City.<br>
